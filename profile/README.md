@@ -4,7 +4,7 @@ Autonoums Agro Systems is a project by the company De Groot Agro to create an mu
 ## About
 The platform is capable of driving autonomously with a route that the controller has prepared. 
 
-<img src="puk.jpg"  width="300" height="250">
+<img src="puk.jpg"  width="300" height="400">
 
 It uses GPS with centimer accuracy and LiDar to avoid obstacles. 
 
