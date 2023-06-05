@@ -1,12 +1,14 @@
-## Hi there 👋
+# Autononoums Agro Systems
+Autonoums Agro Systems is a project by the company De Groot Agro to create an multi purpose platfrom to automate tasks in agro forests. This organisation contains the source code and development documentation for this platform.
 
-<!--
+## About
+The platform is capable of driving autonomously with a route that the controller has prepared. 
+<img src="puk.jpg"  width="300" height="250">
+It uses GPS with centimer accuracy and LiDar to avoid obstacles. 
 
-**Here are some ideas to get you started:**
+It also uses a basestation to calculate the GPS correction signal 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Authors
+This project is done by Avans hogeschool for De Groot Agro.
+## Contact
+Want to know more about the project or want to get acces to the source code. Please visit the [website](https://degrootagro.nl/).
