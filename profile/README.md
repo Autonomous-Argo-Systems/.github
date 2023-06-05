@@ -16,3 +16,4 @@ It also uses a basestation to calculate the GPS correction signal
 This project is done by Avans hogeschool for De Groot Agro.
 ## Contact
 Want to know more about the project or want to get acces to the source code. Please visit the [website](https://degrootagro.nl/).
+<img src="profile/degroot.png"  width="300" height="100">
