@@ -1,7 +1,7 @@
 # Autononoums Agro Systems
 Autonoums Agro Systems is a project by the company De Groot Agro to create an multi purpose platfrom to automate tasks in agro forests. This organisation contains the source code and development documentation for this platform.
 
-<img src="araf.jpg"  width="300" height="250">
+<img src="araf.jpg"  width="300" height="200">
 
 ## About
 The platform is capable of driving autonomously with a route that the controller has prepared. 
